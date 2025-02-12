@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\narinn\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\narinn\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\narinn\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectName": "CoreDemo",
+        "projectPath": "C:\\Users\\narinn\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "packagesPath": "C:\\Users\\narinn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\narinn\\source\\repos\\CoreDemo\\CoreDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\narinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.425\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
