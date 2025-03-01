@@ -10,6 +10,7 @@ namespace CoreDeneme.ViewComponents.Writer
             NotificitionManager nm = new NotificitionManager(new EfNotificitionRepository());
             public IViewComponentResult Invoke()
             {
+
             var values = nm.GetList();
                 return View(values);
             }
